@@ -1,6 +1,8 @@
 # Remote Mapping Injection PoC
 
-In this project, I've developed a simple Proof-of-Concept of the popular Malware Development / Process Injection technique — **Remote Mapping Injection** — and documented what is going on during the process of "Remote Mapping Injection" technique, what is different about this specific technique and how it is useful for us.
+In this project, I've developed a simple Proof-of-Concept of the popular Malware Development / Process Injection technique — **Remote Mapping Injection** — and documented what is going on during the process of "Remote Mapping Injection" technique, what is different about this specific technique and how it is useful for us. 
+### Disclaimer
+This PoC is only for educational purposes, I am not responsible for malicious use. Handle it with non-malicious intentions.
 
 ## What is Remote Mapping Injection?
 
